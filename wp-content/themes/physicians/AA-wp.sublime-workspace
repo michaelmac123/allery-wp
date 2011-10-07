@@ -1,0 +1,320 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text: text-decoration: none/underline/overline/line-through/blink"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392,
+		"selected_items":
+		[
+		],
+		"width": 593
+	},
+	"console":
+	{
+		"height": 0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": true,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Michael/Sites/allergy-WP/wp-content/themes/physicians/footer.php",
+		"/Users/Michael/Sites/allergy-WP/wp-content/themes/allergysufferers/footer.php",
+		"/Users/Michael/Sites/allergy-WP/wp-content/themes/physicians/style.css",
+		"/Users/Michael/Sites/allergy-WP/wp-content/themes/allergysufferers/style.css",
+		"/Users/Michael/Sites/allergy-WP/wp-content/themes/allergysufferers/header.php",
+		"/Users/Michael/Sites/allergy-WP/wp-content/themes/physicians/header.php",
+		"/Users/Michael/Sites/allergy-WP/wp-config.php",
+		"/Users/Michael/Sites/allergy-WP/wp-admin/network/site-settings.php",
+		"/Users/Michael/Sites/allergy-WP/wp-content/themes/allergysufferers/page.php",
+		"/Users/Michael/Sites/allergy-WP/wp-content/themes/physicians/page.php",
+		"/Users/Michael/Sites/AllergyAllies/faq.php",
+		"/Users/Michael/Sites/allergy-WP/wp-content/themes/allergysuffers/footer.php",
+		"/Users/Michael/Sites/allergy-WP/wp-content/themes/physicians/inc/functions_theme.php",
+		"/Users/Michael/Sites/allergy-WP/wp-content/themes/physicians/index.php",
+		"/Users/Michael/Sites/allergy-WP/wp-includes/functions.wp-styles.php",
+		"/Users/Michael/Sites/allergy-WP/wp-includes/functions.wp-scripts.php",
+		"/Users/Michael/Sites/allergy-WP/wp-includes/functions.php",
+		"/Users/Michael/Sites/allergy-WP/wp-content/themes/AllergyAllies/header.php",
+		"/Users/Michael/Sites/allergy-WP/wp-content/themes/AllergyAllies/page.php",
+		"/Users/Michael/Sites/allergy-WP/wp-content/themes/AllergyAllies/css/main.scss",
+		"/Users/Michael/Sites/elocal_web/app/assets/stylesheets/main/widgets.css.scss",
+		"/Users/Michael/Sites/elocal_web/app/assets/stylesheets/main/_mixins.scss",
+		"/Users/Michael/Sites/allergy-WP/wp-content/themes/AllergyAllies/style.css",
+		"/Users/Michael/Sites/allergy-WP/wp-content/themes/AllergyAllies/single.php",
+		"/Users/Michael/Sites/allergy-WP1/wp-config.php",
+		"/Users/Michael/Sites/sinatraApp/views/main/view.haml",
+		"/Users/Michael/Sites/sinatraApp/views/main/layout.haml",
+		"/Users/Michael/Sites/sinatraApp/config.ru",
+		"/Users/Michael/Sites/sinatraApp/.rvmrc",
+		"/Users/Michael/Sites/sinatraApp/web.rb",
+		"/Users/Michael/Sites/sinatraApp/views/main/form.haml",
+		"/Users/Michael/Sites/sinatraApp/views/main/index.haml",
+		"/Users/Michael/Sites/sinatraApp/views/form/form.haml",
+		"/Users/Michael/Sites/sinatraApp/views/form/thanks.haml",
+		"/Users/Michael/Sites/sinatraApp/views/form/layout.haml",
+		"/Users/Michael/Sites/sinatraApp/views/form.haml",
+		"/Users/Michael/Sites/sinatraApp/views/layout.haml",
+		"/Users/Michael/Sites/sinatraApp/views/edit.haml",
+		"/Users/Michael/Sites/sinatraApp/views/delete.haml",
+		"/Users/Michael/Sites/sinatraApp/views/index.haml",
+		"/Users/Michael/Sites/sinatraApp/views/show.haml",
+		"/Users/Michael/Sites/sinatraApp/views/new.haml",
+		"/Users/Michael/Sites/sinatraApp/edit.haml",
+		"/Users/Michael/Sites/sinatraApp/views/stylesheet.scss",
+		"/Users/Michael/Sites/sinatraApp/views/stylesheets.scss",
+		"/Users/Michael/Sites/sinatraApp/gemfile",
+		"/Users/Michael/Sites/elocal_web/Gemfile",
+		"/Users/Michael/Sites/sinatraApp/views/style.scss",
+		"/Users/Michael/Sites/sinatraApp/features/support/paths.rb",
+		"/Users/Michael/Sites/sinatraApp/features/hello.feature",
+		"/Users/Michael/Sites/sinatraApp/public/css/stylesheet.scss",
+		"/Users/Michael/Sites/sinatraApp/about.haml",
+		"/Users/Michael/Sites/sinatraApp/features/step_definitions/web_steps.rb",
+		"/Users/Michael/Sites/sinatraApp/features/home.feature",
+		"/Users/Michael/Sites/sinatraTest/features/support/env.rb",
+		"/Users/Michael/Sites/sinatraTest/features/hello.feature",
+		"/Users/Michael/Sites/testApp/features/hello.feature",
+		"/Users/Michael/Sites/testApp/hello.feature",
+		"/Users/Michael/Sites/sinatraApp/features/support/env.rb",
+		"/Users/Michael/Sites/entAllergy/web-content/Pages/BCS-Videos.html",
+		"/Users/Michael/Sites/AllergyAllies/includes/formProcessor.php",
+		"/Users/Michael/Sites/elocal_web/app/views/admin/account_parts/notes/index.html.haml",
+		"/Users/Michael/Sites/elocal_web/app/views/admin/account_parts/messages/_show.html.haml",
+		"/Users/Michael/Sites/elocal_web/app/views/admin/account_parts/main/_messages.html.haml",
+		"/Users/Michael/Sites/elocal_web/app/views/admin/account_parts/main/_main_content.html.haml",
+		"/Users/Michael/Sites/elocal_web/app/assets/stylesheets/admin/admin_shared.css.scss",
+		"/Users/Michael/Sites/elocal_web/app/assets/stylesheets/main/searchbox.css.scss",
+		"/Users/Michael/Sites/elocal_web/app/assets/stylesheets/main/home.css.scss",
+		"/Users/Michael/Sites/elocal_web/app/views/admin/accounts/index.html.haml",
+		"/Users/Michael/Sites/elocal_web/app/views/application/_admin_search_criteria.html.haml",
+		"/Users/Michael/Sites/elocal_web/app/views/admin/accounts/_search_results.html.haml",
+		"/Users/Michael/Sites/elocal_web/app/views/layouts/admin.html.haml",
+		"/Users/Michael/Sites/elocal_web/app/assets/stylesheets/admin/admin_navigation.scss",
+		"/Users/Michael/Sites/elocal_web/app/assets/stylesheets/main/elocal-main.css.scss",
+		"/Users/Michael/Sites/elocal_web/app/views/categories/show.html.haml",
+		"/Users/Michael/Sites/elocal_web/app/views/layouts/consumer.html.haml",
+		"/Users/Michael/Sites/elocal_web/app/assets/stylesheets/main/listings.css.scss",
+		"/Users/Michael/Sites/elocal_web/app/assets/stylesheets/main/profile.css.scss",
+		"/Users/Michael/Sites/elocal_web/app/assets/stylesheets/admin/elocal-admin.css.scss",
+		"/Users/Michael/Sites/elocal_web/app/assets/stylesheets/admin.css.scss",
+		"/Users/Michael/Sites/elocal_web/app/assets/stylesheets/admin/admin_login.scss",
+		"/Users/Michael/Sites/elocal_web/app/assets/stylesheets/main/business_users.css.scss",
+		"/Users/Michael/Sites/elocal_web/app/views/users/sessions/new.html.haml",
+		"/Users/Michael/Sites/elocal_web/app/assets/stylesheets/main/consumer_shared.css.scss",
+		"/Users/Michael/Sites/elocal_web/app/views/application/_category_browser.html.haml",
+		"/Users/Michael/Sites/elocal_web/app/views/application/_filter_module.html.haml",
+		"/Users/Michael/Sites/elocal_web/app/helpers/application_helper.rb",
+		"/Users/Michael/Sites/elocal_web/app/views/application/_related_categories.html.haml",
+		"/Users/Michael/Sites/elocal_web/app/views/business_users/sessions/new.html.haml",
+		"/Users/Michael/Sites/elocal_web/app/views/application/_get_quote_module.html.haml",
+		"/Users/Michael/Sites/elocal_web/app/views/business_users/registrations/_form.html.haml",
+		"/Users/Michael/Sites/Allergy_Allies/app/views/contacts/_form.html.haml",
+		"/Users/Michael/Sites/elocal_web/app/views/search/_search_results.html.haml",
+		"/Users/Michael/Sites/elocal_web/app/views/application/_enhanced_ads.html.haml",
+		"/Users/Michael/Sites/elocal_web/app/views/application/_category_hierarchical_selection.html.haml",
+		"/Users/Michael/Sites/elocal_web/app/views/application/_search_module.html.haml",
+		"/Users/Michael/Sites/elocal_web/app/views/application/_search_local_businesses.html.haml",
+		"/Users/Michael/Sites/elocal_web/app/views/application/_resources_module.html.haml",
+		"/Users/Michael/Sites/elocal_web/app/views/application/_paid_ads.html.haml",
+		"/Users/Michael/Sites/elocal_web/app/views/categories/_copy_points_by_group_for_select.html.haml",
+		"/Users/Michael/Sites/elocal_web/app/views/site_map/index.html.haml",
+		"/Users/Michael/Sites/elocal_web/app/assets/stylesheets/main/modules.css.scss",
+		"/Users/Michael/Sites/elocal_web/app/views/home/coming_soon.html.haml",
+		"/Users/Michael/Sites/elocal_web/config/routes.rb",
+		"/Users/Michael/Sites/elocal_web/app/controllers/site_map_controller.rb",
+		"/Users/Michael/Sites/elocal_web/app/views/site_map/state_landing.html.haml",
+		"/Users/Michael/Sites/elocal_web/app/views/home/privacy_policy.html.haml",
+		"/Users/Michael/Sites/elocal_web/app/views/home/terms_conditions.html.haml",
+		"/Users/Michael/Sites/Allergy_Allies/config/routes.rb",
+		"/Users/Michael/Sites/elocal_web/app/views/search/index.html.haml",
+		"/Users/Michael/Sites/elocal_web/app/views/categories/_get_quote_form.html.haml",
+		"/Users/Michael/Sites/elocal_web/app/assets/stylesheets/main/categories.css.scss",
+		"/Users/Michael/Sites/elocal_web/app/views/admin/exports/index.html.haml",
+		"/Users/Michael/Sites/elocal_web/app/controllers/admin/categories_controller.rb",
+		"/Users/Michael/Sites/elocal_web/app/controllers/admin/exports_controller.rb",
+		"/Users/Michael/Library/Application Support/Sublime Text 2/Packages/User/Ruby Haml.sublime-settings",
+		"/Users/Michael/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/Michael/Sites/elocal_web/config/environment.rb",
+		"/Users/Michael/Sites/elocal_web/app/views/home/signup.html.haml",
+		"/Users/Michael/Sites/elocal_web/app/views/contact_inquiries/_form.html.haml",
+		"/Users/Michael/Sites/elocal_web/app/controllers/categories_controller.rb",
+		"/Users/Michael/Sites/elocal_web/app/controllers/contact_inquiries_controller.rb",
+		"/Users/Michael/Sites/elocal_web/app/views/profile/_photos.html.haml",
+		"/Users/Michael/Sites/elocal_web/app/views/application/get_quote_form.html.haml",
+		"/Users/Michael/Sites/elocal_web/app/views/application/_get_quote_form.html.haml",
+		"/Users/Michael/Sites/elocal_web/app/assets/stylesheets/application.css.scss",
+		"/Users/Michael/Sites/elocal_web/app/views/profile/show.html.haml",
+		"/Users/Michael/Sites/elocal_web/app/views/profile/_profiles_about.html.haml"
+	],
+	"find":
+	{
+		"height": 33
+	},
+	"find_in_files":
+	{
+		"height": 86,
+		"include_history":
+		[
+			""
+		],
+		"location_history":
+		[
+			"<open files>",
+			"/Users/Michael/Sites/elocal_web/app/assets",
+			"/Users/Michael/Sites/elocal_web/app/assets/stylesheets",
+			"%p.category-title"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";",
+			"charset",
+			".account-info",
+			".admin-center-content",
+			"account-info",
+			".account-info",
+			"#search_business",
+			"#search_category_name",
+			"floatright",
+			"floatleft",
+			"        }",
+			"cs",
+			"    font-weight:900;\n      font-size:1.1em;\n    }",
+			".blue",
+			"alt: \"check mark\" title:\"Check Mark\"",
+			"titel",
+			"= image_tag{src: \"/assets/backgrounds/checkmark.png\", alt: \"check mark\"}",
+			"{src: \"/assets/backgrounds/checkmark.png\", alt: \"check mark\"}",
+			"<img src=\"img/checkmark.png\" width=\"28\" height=\"22\" alt=\"Checkmark\">",
+			"<td class=\"orange\">",
+			"<td class=\"blue\">",
+			"<td class=\"green\">",
+			"<td class=\"white\">",
+			";",
+			".list-noborder",
+			"%p.category_title"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"float",
+			"profiles",
+			".ltblue",
+			"alt: \"check mark\", title:\"Check Mark\"",
+			"title",
+			"= image_tag(\"/assets/backgrounds/checkmark.png\", alt: \"check mark\" titel:\"Check Mark\")",
+			"",
+			"= image_tag{src: \"/assets/backgrounds/checkmark.png\", alt: \"check mark\"}",
+			"%td.orange ",
+			"%td.blue ",
+			"%td.green ",
+			"%td.white ",
+			"",
+			"%p.category-title"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0
+	},
+	"input":
+	{
+		"height": 28
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0,
+			1
+		],
+		"rows":
+		[
+			0,
+			1
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0,
+		"selected_items":
+		[
+			[
+				"admin_se",
+				"app/views/application/_admin_search_criteria.html.haml"
+			],
+			[
+				"apphel",
+				"app/helpers/application_helper.rb"
+			]
+		],
+		"width": 0
+	},
+	"select_project":
+	{
+		"height": 0,
+		"selected_items":
+		[
+		],
+		"width": 0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 239.7421875,
+	"status_bar_visible": true
+}
